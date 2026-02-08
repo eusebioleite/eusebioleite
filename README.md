@@ -5,8 +5,6 @@ Backend & Data Developer focused on building reliable systems and solving real-w
 * 📦 Working with containers, automation and data pipelines
 * 🌎 Open to opportunities (Rust/Go preferred, but open to any role)
 
----
-
 ## Tech Stack
 
 ### Languages
@@ -25,16 +23,12 @@ Backend & Data Developer focused on building reliable systems and solving real-w
 
 **Other tools:** Docker Compose, IIS, n8n, Pentaho, Hop, ETL pipelines, BI
 
----
-
 ## Focus Areas
 
 * Backend development
 * Data engineering / ETL
 * Systems programming
 * Database performance & maintenance
-
----
 
 ## Current Goal
 
