@@ -9,7 +9,7 @@ Backend & Data Developer focused on building reliable systems and solving real-w
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=rust,go,python,java,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,go,python,flask,java,spring,maven,gradle,js,html,css,nodejs,npm,dotnet,visualstudio)](https://skillicons.dev)
 
 ### Databases
 
@@ -19,7 +19,7 @@ Backend & Data Developer focused on building reliable systems and solving real-w
 
 ### DevOps & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,ubuntu,bash,neovim,vim,vscode,powershell,windows,redis,rabbitmq,selenium,nginx,postman,md,obsidian,stackoverflow,github,githubactions,git)](https://skillicons.dev)
 
 **Other tools:** Docker Compose, IIS, n8n, Pentaho, Hop, ETL pipelines, BI
 
